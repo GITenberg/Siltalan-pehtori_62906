@@ -1,5 +1,5 @@
 _repo: Siltalan-pehtori_62906
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Inspektorn på Siltala. Finnish
 contributor:
   translator:
@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '7932'
     url: http://www.gutenberg.org/2009/agents/7932
     wikipedia: https://fi.wikipedia.org/wiki/Aarni_Kouta
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Selmer-Geeth, Harald
@@ -26,6 +29,8 @@ creator:
     - https://sv.wikipedia.org/wiki/Werner_August_%C3%96rn
     - https://fi.wikipedia.org/wiki/Werner_August_%C3%96rn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62906#Siltalan-pehtori
 gutenberg_issued: '2020-08-11'
 gutenberg_type: Text
 identifiers:
